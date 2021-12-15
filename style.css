@@ -78,3 +78,7 @@ ul {
     padding: 2px;
     text-align: center;
   }
+
+.smallertext {
+  font-size: large;
+}
